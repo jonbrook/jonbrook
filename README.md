@@ -9,19 +9,6 @@ I’m Jon, a full-stack engineer, creative coder and self-proclaimed designer wh
 
 <!-- Want to know more about me? [Check out my portfolio.](https://jonbrook.dev/) -->
 
-## 📌 Pinned Repositories
-
-<a href="https://github.com/jonbrook/munro-bagger">
-  <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jonbrook&repo=munro-bagger&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/jonbrook/flora">
-  <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jonbrook&repo=flora&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<br>
-<a href="https://github.com/jonbrook/Euro-2020-Sweepstake">
-  <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jonbrook&repo=Euro-2020-Sweepstake&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/jonbrook">
   <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonbrook&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
